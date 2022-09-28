@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SeN75&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeN75&langs_count=6&theme=tokyonight)]()
+[![ss](https://github-readme-stats.vercel.app/api/?username=SeN75&count_private=true&theme=tokyonight&showicons=true)]()
+[![ssss](https://github-readme-stats.vercel.app/api/top-langs/?username=SeN75&langs_count=6&theme=tokyonight)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeN75)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeN75&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
