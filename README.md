@@ -1,26 +1,13 @@
-<a href="https://salehalsaggaf.me"><img src="assets/header.svg" width="100%" alt="about-me.exe — Saleh Al Saggaf, Senior Software Engineer &amp; Team Lead, Jeddah, Saudi Arabia, 8+ years of experience"></a>
+<a href="https://salehalsaggaf.me"><img src="assets/header.svg" width="100%" alt="about-me.exe. Saleh Al Saggaf, Senior Software Engineer &amp; Team Lead, Jeddah, Saudi Arabia. Senior Software Engineer &amp; Team Lead with 8+ years of experience specializing in front-end development, scalable architectures, and UX-driven applications. Proven ability to lead teams, deliver high-quality products, and align business goals with technical solutions. Strong expertise in Angular, Next.js, and monorepo architectures, with a focus on performance, usability, and system design."></a>
 
-Senior Software Engineer & Team Lead with 8+ years of experience specializing in front-end development, scalable architectures, and UX-driven applications. Proven ability to lead teams, deliver high-quality products, and align business goals with technical solutions. Strong expertise in Angular, Next.js, and monorepo architectures, with a focus on performance, usability, and system design.
+My portfolio runs as a small desktop OS, **SalehOS**. Boot it at [salehalsaggaf.me](https://salehalsaggaf.me).
 
-My portfolio runs as a small desktop OS, **SalehOS**: boot it at [salehalsaggaf.me](https://salehalsaggaf.me).
+<img src="assets/stack.svg" width="100%" alt="stack.cfg. Frontend: Angular, Nx, NgRx, Next.js, Tailwind CSS. Backend: Node.js, NestJS, Firebase, PostgreSQL. Mobile and design: Flutter, Figma.">
 
-<br>
+<a href="https://salehalsaggaf.me/portfolio/warshaplus/"><img src="assets/project-warshaplus.svg" width="100%" alt="projects/warshaplus. Warshaplus: Senior Software Engineer, Team Lead, 03/2021 to present. Owned end-to-end delivery, established an Nx monorepo, led Insurance v3 and v4, and shipped live products with a shared design system. Live platforms: Warshaplus, Taqdeer, Parts. Stack: Angular, Nx, Design System."></a>
 
-<img src="assets/stack.svg" width="100%" alt="stack.cfg — Frontend: Angular, Nx, NgRx, Next.js, Tailwind CSS. Backend: Node.js, NestJS, Firebase, PostgreSQL. Mobile: Flutter. Design: Figma.">
-
-<br>
-
-<img src="assets/bar-projects.svg" width="100%" alt="C:\SALEH\PROJECTS">
-
-<p>
-<a href="https://salehalsaggaf.me/portfolio/warshaplus/"><img src="assets/project-warshaplus.svg" width="49%" alt="Warshaplus — Senior Software Engineer, Team Lead, 03/2021 to present. Owned end-to-end delivery, established an Nx monorepo, led Insurance v3 and v4, and shipped live products with a shared design system. Angular, Nx, Design System."></a>
-<a href="https://salehalsaggaf.me/portfolio/ahmall/"><img src="assets/project-ahmall.svg" width="49%" alt="Ahmall Transport — Front-end Developer, Angular, 01/2020 to 01/2021. Shipped Ionic/Angular customer and provider flows for login, orders, storing, and ratings. Ionic, Angular, mobile."></a>
-</p>
-<p>
-<a href="https://salehalsaggaf.me/portfolio/ejartech/"><img src="assets/project-ejartech.svg" width="49%" alt="EjarTech — Front-end Developer, Angular, 09/2017 to 03/2019. Built booking system UI and ERP surfaces for car rental operations. Angular, web."></a>
-<a href="https://salehalsaggaf.me/portfolio/qlean_app/"><img src="assets/project-qlean.svg" width="49%" alt="Qlean Laundry — Front-end Developer, 10/2017 to 05/2018. Shipped mobile apps, admin dashboard, and landing experience for ordering and tracking. Cordova, Framework7, Xamarin, mobile."></a>
-</p>
+<p><img src="assets/list-head.svg" width="100%" alt="Earlier work"><br><a href="https://salehalsaggaf.me/portfolio/ahmall/"><img src="assets/row-ahmall.svg" width="100%" alt="Ahmall Transport: Front-end Developer, Angular, 01/2020 to 01/2021. Shipped Ionic/Angular customer and provider flows for login, orders, storing, and ratings. Stack: Ionic, Angular, mobile."></a><br><a href="https://salehalsaggaf.me/portfolio/ejartech/"><img src="assets/row-ejartech.svg" width="100%" alt="EjarTech: Front-end Developer, Angular, 09/2017 to 03/2019. Built booking system UI and ERP surfaces for car rental operations. Stack: Angular, web."></a><br><a href="https://salehalsaggaf.me/portfolio/qlean_app/"><img src="assets/row-qlean.svg" width="100%" alt="Qlean Laundry: Front-end Developer, 10/2017 to 05/2018. Shipped mobile apps, admin dashboard, and landing experience for ordering and tracking. Stack: Cordova, Framework7, Xamarin, mobile."></a></p>
 
 <br>
 
-<p><a href="https://salehalsaggaf.me"><img src="assets/tb-start.svg" width="17.82%" alt="Start — salehalsaggaf.me"></a><a href="https://linkedin.com/in/saleh-alsaggaf-38975a168"><img src="assets/tb-linkedin.svg" width="14.61%" alt="LinkedIn"></a><a href="https://twitter.com/saleh_alsaggaf1"><img src="assets/tb-x.svg" width="13.31%" alt="Twitter / X"></a><a href="https://www.instagram.com/saleh_alsaggaf/"><img src="assets/tb-instagram.svg" width="15.80%" alt="Instagram"></a><a href="mailto:saleh-alsaggaf7575@outlook.com"><img src="assets/tb-email.svg" width="11.88%" alt="Email"></a><a href="https://salehalsaggaf.me/assets/Saleh%20alsaggaf%20CV.pdf"><img src="assets/tb-resume.svg" width="13.90%" alt="Résumé (PDF)"></a><img src="assets/tb-tray.svg" width="12.47%" alt="Jeddah"></p>
+<p><a href="https://salehalsaggaf.me"><img src="assets/tb-start.svg" width="17.82%" alt="Start: salehalsaggaf.me"></a><a href="https://linkedin.com/in/saleh-alsaggaf-38975a168"><img src="assets/tb-linkedin.svg" width="14.61%" alt="LinkedIn"></a><a href="https://twitter.com/saleh_alsaggaf1"><img src="assets/tb-x.svg" width="13.31%" alt="Twitter / X"></a><a href="https://www.instagram.com/saleh_alsaggaf/"><img src="assets/tb-instagram.svg" width="15.80%" alt="Instagram"></a><a href="mailto:saleh-alsaggaf7575@outlook.com"><img src="assets/tb-email.svg" width="11.88%" alt="Email"></a><a href="https://salehalsaggaf.me/assets/Saleh%20alsaggaf%20CV.pdf"><img src="assets/tb-resume.svg" width="13.90%" alt="Résumé (PDF)"></a><img src="assets/tb-end.svg" width="12.47%" alt=""></p>
