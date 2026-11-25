@@ -1,26 +1,26 @@
+<a href="https://salehalsaggaf.me"><img src="assets/header.svg" width="100%" alt="about-me.exe — Saleh Al Saggaf, Senior Software Engineer &amp; Team Lead, Jeddah, Saudi Arabia, 8+ years of experience"></a>
 
+Senior Software Engineer & Team Lead with 8+ years of experience specializing in front-end development, scalable architectures, and UX-driven applications. Proven ability to lead teams, deliver high-quality products, and align business goals with technical solutions. Strong expertise in Angular, Next.js, and monorepo architectures, with a focus on performance, usability, and system design.
 
+My portfolio runs as a small desktop OS, **SalehOS**: boot it at [salehalsaggaf.me](https://salehalsaggaf.me).
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/SeN#6672) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saleh_alsaggaf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saleh-alsaggaf-38975a168) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/saleh_alsaggaf1?s=09) 
+<br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) [![wakatime](https://wakatime.com/badge/user/cc3731f3-e256-45f9-8415-90c89e47321b.svg?style=for-the-badge)](https://wakatime.com/@cc3731f3-e256-45f9-8415-90c89e47321b)
+<img src="assets/stack.svg" width="100%" alt="stack.cfg — Frontend: Angular, Nx, NgRx, Next.js, Tailwind CSS. Backend: Node.js, NestJS, Firebase, PostgreSQL. Mobile: Flutter. Design: Figma.">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SEN75&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SEN75&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEN75&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SEN75&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<img src="assets/bar-projects.svg" width="100%" alt="C:\SALEH\PROJECTS">
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<p>
+<a href="https://salehalsaggaf.me/portfolio/warshaplus/"><img src="assets/project-warshaplus.svg" width="49%" alt="Warshaplus — Senior Software Engineer, Team Lead, 03/2021 to present. Owned end-to-end delivery, established an Nx monorepo, led Insurance v3 and v4, and shipped live products with a shared design system. Angular, Nx, Design System."></a>
+<a href="https://salehalsaggaf.me/portfolio/ahmall/"><img src="assets/project-ahmall.svg" width="49%" alt="Ahmall Transport — Front-end Developer, Angular, 01/2020 to 01/2021. Shipped Ionic/Angular customer and provider flows for login, orders, storing, and ratings. Ionic, Angular, mobile."></a>
+</p>
+<p>
+<a href="https://salehalsaggaf.me/portfolio/ejartech/"><img src="assets/project-ejartech.svg" width="49%" alt="EjarTech — Front-end Developer, Angular, 09/2017 to 03/2019. Built booking system UI and ERP surfaces for car rental operations. Angular, web."></a>
+<a href="https://salehalsaggaf.me/portfolio/qlean_app/"><img src="assets/project-qlean.svg" width="49%" alt="Qlean Laundry — Front-end Developer, 10/2017 to 05/2018. Shipped mobile apps, admin dashboard, and landing experience for ordering and tracking. Cordova, Framework7, Xamarin, mobile."></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=SEN75&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<p><a href="https://salehalsaggaf.me"><img src="assets/tb-start.svg" width="17.82%" alt="Start — salehalsaggaf.me"></a><a href="https://linkedin.com/in/saleh-alsaggaf-38975a168"><img src="assets/tb-linkedin.svg" width="14.61%" alt="LinkedIn"></a><a href="https://twitter.com/saleh_alsaggaf1"><img src="assets/tb-x.svg" width="13.31%" alt="Twitter / X"></a><a href="https://www.instagram.com/saleh_alsaggaf/"><img src="assets/tb-instagram.svg" width="15.80%" alt="Instagram"></a><a href="mailto:saleh-alsaggaf7575@outlook.com"><img src="assets/tb-email.svg" width="11.88%" alt="Email"></a><a href="https://salehalsaggaf.me/assets/Saleh%20alsaggaf%20CV.pdf"><img src="assets/tb-resume.svg" width="13.90%" alt="Résumé (PDF)"></a><img src="assets/tb-tray.svg" width="12.47%" alt="Jeddah"></p>
